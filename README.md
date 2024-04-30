@@ -14,6 +14,7 @@
 <ul>
   <li><b>Jupyter Noteboook</b></li>
   <li><b>Python</b></li>
+  <li><b>MatPlotLib</b></li>
 </ul>
 
 <h2>Environments Used</h2>
